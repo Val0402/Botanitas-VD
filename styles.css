@@ -1,0 +1,83 @@
+body {
+    background-color: #FEF2D7;
+}
+header {
+      background-color: #B5FFF4;
+      padding: 15px;   
+}
+tittle {
+    color: black;
+    font-family: 'Courier New';
+    font-size: 80%;
+    position: absolute;
+    left: 70px;
+    top: 30px;
+}
+nav {
+    position: absolute;
+    right: 50px;
+    top: 40px 
+    
+	
+ }
+ div.absolute {
+        background-color: #eb5242;
+        padding: 5px;
+        text-align: right;
+        color: black;
+}
+footer {
+    top: 900px;
+     background-color: #FF9282;
+     padding: 5px 5px 5px 10px;
+     text-align: left;
+     color: black;
+} 
+h1 {
+   color: orange;
+   font-family: sans serif;
+   font-size: 300%;
+}
+h2{
+    color: black;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+p {
+    position: left;
+    right: 5px;
+    top: 900px;
+  color: black;
+  font-family: courier;
+  font-size: 110%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+div.relative {
+    background-color: #FF9282;
+     padding: 5px;
+     text-align: left;
+     color: black;
+}     
+.button {
+    background-color: #65807C;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+input {
+    width: 90%;
+    text-align: center;
+    padding: auto;
+  }
+form {
+    width: 1000px;
+    text-align: left;
+    padding: auto;
+}
